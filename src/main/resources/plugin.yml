@@ -1,0 +1,5 @@
+name: Task1
+version: '${project.version}'
+main: me.smokesh.task1.Main
+authors: [smokeed_]
+description: Задача состоит в том, чтобы сделать довольно слабых майнкрафт зомби опаснее. Надень на них броню, выдай им оружие и эффект скорости
